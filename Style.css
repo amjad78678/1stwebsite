@@ -1,0 +1,143 @@
+#TopBar {
+  background-color: #1d1d20;
+  height: 30px;
+  width: 100%;
+}
+body {
+  background-color: white;
+}
+#Container {
+  width: 70%;
+  margin: 0px auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+#Header {
+  height: 100px;
+  background-color: #f8f7f7;
+}
+#Header img {
+  height: 100px;
+}
+#Header ul {
+  float: right;
+  margin-top: 40px;
+}
+#Header ul li {
+  display: inline;
+  margin-right: 40px;
+}
+#Header ul li a {
+  color: grey;
+  font-size: 20px;
+}
+a:link {
+  text-decoration: none;
+}
+#Header ul {
+}
+#Banner img {
+  width: 100%;
+  padding-bottom: 20px;
+}
+#Content1 {
+  width: 32%;
+  height: 450px;
+  background-color: #ff6f00;
+  float: left;
+  margin-right: 2%;
+}
+#Content2 {
+  width: 32%;
+  height: 450px;
+  background-color: #ffbf00;
+  float: left;
+}
+#Content3 {
+  width: 32%;
+  height: 450px;
+  background-color: #a3b809;
+  float: right;
+}
+.Heading {
+  color: white;
+  margin-left: 25px;
+  font-size: 40px;
+}
+.para1 {
+  color: white;
+  font-size: 23px;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+.More {
+  font-size: 17px;
+  color: black;
+  background-color: white;
+  padding: 7px;
+  margin-left: 25px;
+}
+
+.Bottom1 {
+  width: 65%;
+  background-color: white;
+  font-size: 30px;
+  margin-top: 20px;
+  float: left;
+}
+
+.Bottom2 {
+  width: 32%;
+  background-color: white;
+  float: left;
+  margin-top: 22px;
+  margin-left: 43px;
+}
+.Bottom1 h2 {
+  color: #1d1d20;
+}
+.Bottom1 {
+  color: #1d1d20;
+  font-size: 15px;
+}
+
+.Bottom1 p {
+  margin-right: 10px;
+}
+#image {
+  margin-bottom: 20px;
+}
+.Bottom1 a {
+  color: #f87109;
+}
+.b2more {
+  color: #f87109;
+  font-size: 15px;
+}
+#blackbottom {
+  background-color: #1d1d20;
+  width: 100%;
+  height: 100px;
+  clear: both;
+}
+
+#blackbottom ul {
+  float: left;
+  margin-top: 35px;
+  margin-left: 271px;
+}
+#blackbottom ul li {
+  color: grey;
+  display: inline;
+}
+#blackbottom p {
+  float: right;
+  color: grey;
+  margin-top: 35px;
+  margin-right: 318px;
+}
+#blackbottom a {
+  color: grey;
+}
